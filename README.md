@@ -2,4 +2,11 @@
 
 ## Shopping Cart (Carrinho de Compras)
 
-  Utilizando fake-store-api, Material-UI, React-query, Styled-components.
+#### React & Typescript & Styled-Components
+
+
+  Utilizando 
+  fake-store-api, 
+  Material-UI, 
+  React-query, 
+  Styled-components.
