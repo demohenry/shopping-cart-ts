@@ -21,6 +21,7 @@ const CartItem = ({item, addToCart, removeFromCart}: Props) => {
                 </div>
                 <div className="buttons">
                     <Button
+                        className="buttonsRem"
                         size="small"
                         disableElevation
                         variant="contained"
@@ -32,6 +33,7 @@ const CartItem = ({item, addToCart, removeFromCart}: Props) => {
                         <p>{item.amount}</p>
 
                         <Button
+                        className="buttonsAdd"
                         size="small"
                         disableElevation
                         variant="contained"
