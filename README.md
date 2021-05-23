@@ -1,3 +1,12 @@
-#Projeto Shopping-cart
+# Projeto Shopping-cart
 
-## Utilizando fake-store-api, Material-UI, React-query, Styled-components
+## Shopping Cart (Carrinho de Compras)
+
+#### React & Typescript & Styled-Components
+
+
+  Utilizando 
+  fake-store-api, 
+  Material-UI, 
+  React-query, 
+  Styled-components.
